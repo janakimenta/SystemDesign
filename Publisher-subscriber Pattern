@@ -1,0 +1,7 @@
+/*
+
+Its Architectural Design Pattern.
+Here Publisher need to subcribe with the subscriber in order to get the updates when the state or value of the subscriber changes.
+Here good example is Quaro Feed.For example someone posted a question on Quaro and there are people who are interested in knowing the answer to the 
+question if someone posts an answer.Then those people go and click on follow button.As sson as someone posts an answer there,quora notifies all
+the followers.
